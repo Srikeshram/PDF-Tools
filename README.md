@@ -17,9 +17,13 @@ pikepdf can be installed through the following command:
 `pip install pikepdf`
 
 ## Uses:
-- It can be usful in **Machine Learning Purposes for extracting the images**.
+- It can be useful in **Machine Learning Purposes for extracting the images**.
 - It can be useful in Encrypting or Decrypting your document in offline without exposing it to Internet.
 - It can be useful in PDF editing purposes.
+
+## Upcoming Development
+Developing the GUI for the script using the Tkinter
+
 
 ## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
