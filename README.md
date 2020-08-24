@@ -22,7 +22,7 @@ pikepdf can be installed through the following command:
 - It can be useful in PDF editing purposes.
 
 ## License:
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements:
 - The author of the pikepdf.
