@@ -26,7 +26,7 @@ Developing the GUI for the script using the Tkinter
 
 
 ## License:
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements:
 - The author of the pikepdf.
