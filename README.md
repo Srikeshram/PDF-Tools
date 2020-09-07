@@ -5,7 +5,7 @@ A ready python tool to implement the **extraction of images from the pdf and enc
 - Encryption or Decryption of PDF.
 - Image extraction from the PDF.
 - Rotating pages of the PDF.
-- Splitting separate pages of PDF into separate PDF.
+- Splitting each page of PDF into separate PDF.
 - Deleting the Pages of the PDF.
 
 ## Prerequisites:
