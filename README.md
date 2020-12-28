@@ -1,6 +1,14 @@
 # PDF-Tools (Image Extraction , Encryption or Decryption , Rotation etc..)
 A ready python tool to implement the **extraction of images from the pdf and encryption or decryption of PDF** and much more.
 
+![PDF Tools Image](https://user-images.githubusercontent.com/63420229/103208446-a6be3400-4926-11eb-9d01-a61529759b1a.png)
+
+# V1.0 Release Notes
+- Improved UI with Colorama.
+- Fixes major bugs on deleting the pages of the PDF.
+- Added code to add a suffix ".pdf" to be added by default if the user has not given on input.
+- Added requirements.txt to the repository for the installation of prerequisites to increase user convenience.
+
 ## Features:
 - Encryption or Decryption of PDF.
 - Image extraction from the PDF.
@@ -10,11 +18,11 @@ A ready python tool to implement the **extraction of images from the pdf and enc
 
 ## Prerequisites:
 - Python (3.8.0)
-- pikepdf
 
-### Note:
-pikepdf can be installed through the following command:
-`pip install pikepdf`
+## Installation:
+- Open Terminal and locate to the directory of the folder containing the Script and other files.
+- Type `pip install -r requirements.txt` in the terminal to download all the modules needed to run the Script.
+- Execute `python "PDF Tools.py"`  from the Terminal to run the script with Python 3.
 
 ## Uses:
 - It can be useful in **Machine Learning Purposes for extracting the images**.
