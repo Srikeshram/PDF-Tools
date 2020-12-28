@@ -5,7 +5,7 @@ A ready python tool to implement the **extraction of images from the pdf and enc
 
 # V1.0 Release Notes
 - Improved UI with Colorama.
-- Fixes major bugs on deleting the pages of the PDF.
+- Fixes major bug in deleting the pages of the PDF.
 - Added code to add a suffix ".pdf" to be added by default if the user has not given on input.
 - Added requirements.txt to the repository for the installation of prerequisites to increase user convenience.
 - Minor code changes.
