@@ -8,7 +8,8 @@ A ready python tool to implement the **extraction of images from the pdf and enc
 - Fixes major bugs on deleting the pages of the PDF.
 - Added code to add a suffix ".pdf" to be added by default if the user has not given on input.
 - Added requirements.txt to the repository for the installation of prerequisites to increase user convenience.
-
+- Minor code changes.
+ 
 ## Features:
 - Encryption or Decryption of PDF.
 - Image extraction from the PDF.
